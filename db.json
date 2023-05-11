@@ -1,0 +1,17 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "GFSDIS",
+      "genre": "comédie",
+      "public": true
+    },
+    {
+      "id": 2,
+      "title": "Titreee",
+      "genre": "comédie",
+      "public": true,
+      "nbshared": 0
+    }
+  ]
+}
